@@ -5,7 +5,7 @@
 
 ## DEPLOY   
 - Create an Account on Github if you don't have already
-- Fork the Repo [Click Here](https://github.com/Neeraj-x0/Millie-MD/fork)
+- Fork the Repo [ Here](https://github.com/Neeraj-x0/Millie-MD/fork)
 - Scan QR by Clicking [Here](https://millie-qr.herokuapp.com/)
 - Create an account on heroku if you don't have already.
 - Click [Here](https://youtu.be/5yP-awzckYg) if you don't know how. 
@@ -89,7 +89,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](  https://heroku.com/deploy?template=https://github.com/N1H4D-NHD/C4RL0-Ai) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](  https://heroku.com/deploy?template=https://github.com/N1H4D-NHD/C4RL0-A) 
 
   ##
 
@@ -103,24 +103,4 @@
 
 # *👨‍💻Devoloper*
 
-  [![Nihad Nhd](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-Ai/main/tmp/Useravatar.jpg)](https://github.com/N1H4D-NHD)[`Nihad Nhd`](https://github.com/N1H4D-NHD)
-
-----|
-
-   `Base, Bug Fixes, Modules, Commits`
-
-𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗡𝗶𝗵𝗮𝗱 𝗡𝗵𝗱
-
-| © |Copyright Reserved
-
-# *🎴License*
-
-This project is protected by GNU General Public Licence v3.0 license.
-
-# *⚠️Disclaimer*
-
-WhatsApp name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
-# *thanks for your help and support guys*
-
-</div>
+  [![Nihad Nhd](
