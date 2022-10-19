@@ -80,7 +80,7 @@
 
 # *👨‍💻Devoloper*
 
-  [![Nihad Nhd](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-Ai/main/tmp/Useravatar.jpg)](https://github.com/N1H4D-NHD)[`Nihad Nhd`](https://github.com/N1H4D-NHD)
+  [![Nihad Nhd](https://raw.githubusercontent.com/N1H4D-NHD/C4RL0-AI-/main/tmp/Useravatar.jpg)](https://github.com/N1H4D-NHD)[`Nihad Nhd`](https://github.com/N1H4D-NHD)
 
 ----|
 
